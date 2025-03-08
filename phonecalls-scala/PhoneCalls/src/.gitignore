@@ -1,0 +1,11 @@
+#scala
+*/target/*
+
+#intelliJ
+*.iml
+*.ipr
+*.iws
+.idea/*
+*/data/*
+out
+*/project/*
