@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/manuel/IdeaProjects/proyectoInserciones/src/main/scala/Main.scala:31:28: not enough arguments for method ElasticSearchInsertions: (df: org.apache.spark.sql.DataFrame, index: String)Unit.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameters df, index.[0m
+[0m[[0m[31merror[0m] [0m[0m    ElasticSearchInsertions()[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
